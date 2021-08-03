@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Accelerometer : MonoBehaviour
+public class TiltController : MonoBehaviour
 {
     public int tiltForce = 1;
 
